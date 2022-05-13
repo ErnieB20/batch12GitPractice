@@ -10,6 +10,6 @@ public class Test {
 
         String name = ("Andrii");
 
-        // update
+        // deleted comment
     }
 }
